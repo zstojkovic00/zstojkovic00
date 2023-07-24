@@ -2,7 +2,7 @@
 <hr/>
 
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zstojkovic00&hide_progress=true" />
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zstojkovic00&hide_progress=true" />
 
 <hr/>
 
